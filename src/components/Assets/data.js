@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What does JSX stand for in React?",
+        option1: "JavaScript XML",
+        option2: "JavaScript Extension",
+        option3: " JavaScript XHR",
+        option4: "JavaScript Style Extension",
+        ans: 1,
+    },
+    {
+        question: "Which of the following is NOT a valid JavaScript data type?",
+        option1: "String",
+        option2: "Object",
+        option3: "Tuple",
+        option4: "Boolean",
+        ans:3,
+    },
+    {
+        question: "What is the purpose of the `useState` hook in React?",
+        option1: "To manage state in functional components",
+        option2: "To make HTTP requests",
+        option3: "To define lifecycle methods",
+        option4: "To handle routing",
+        ans:1,
+    },
+    {
+        question: "Which of the following methods is used to add a new element to the end of an array in JavaScript?",
+        option1: "`push()`",
+        option2: "`pop()`",
+        option3: "`shift()`",
+        option4: "`unshift()`",
+        ans:1,
+    },
+    {
+        question: "Which of the following methods is used to fetch data from a server in JavaScript?",
+        option1: "`fetch()`",
+        option2: "`get()`",
+        option3: "`request()`",
+        option4: "`download()`",
+        ans:1,
+    },
+]
